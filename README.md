@@ -1,0 +1,3 @@
+This project is a GUI-based Scientific Calculator built using Python’s Tkinter library. It supports both basic arithmetic operations and advanced mathematical functions such as trigonometric calculations (sin, cos, tan), logarithmic functions (log, ln), square root, factorial, power, remainder, and π (pi). The calculator also provides degree and radian modes, offering flexibility for trigonometric computations.
+
+The goal of the project was to explore GUI development, real-time user input handling, and implementation of mathematical operations using Python’s built-in math module. Through this project, I learned how to structure programs in a modular way, validate user input, and create an interactive application interface.
